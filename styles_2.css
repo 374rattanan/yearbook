@@ -234,6 +234,7 @@
   
   .deals_card_details {
     padding: 1rem;
+    background-color: var(--extra-light);
   }
   
   .deals_card_details h4 {
@@ -255,6 +256,7 @@
     justify-content: space-between;
     gap: 1rem;
     flex-wrap: wrap;
+    
   }
   
   
